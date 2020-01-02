@@ -5,14 +5,14 @@ page_title                                :                                     
 ios_app_id                                :                                    # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                        # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://burnslastics.com                                          # Enter Google Play Store URL.
+playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Medical Procedures App                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Completely Free and Add-free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : A pocket guide for medical procedures required for internal medical training in the UK
+app_description                           : A handy pocket guide for common ward based and emergency medical procedures. (App not yet available)
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -34,7 +34,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Your internal medical training companion
-    description                           : Designed by doctors for doctors to help you master common medical procedures
+    description                           : Designed by doctors for doctors to help you master common medical procedures.
     fontawesome_icon_name                 : user-md
     
   - title                                 : Result interpretation
@@ -42,19 +42,19 @@ features                                  :
     fontawesome_icon_name                 : flask
     
   - title                                 : Up to date
-    description                           : Frequent updates are provided to keep on track with IMT requirements and in line with current UK medical practice
+    description                           : Frequent updates are provided to keep on track with IMT requirements and in line with current UK medical practice.
     fontawesome_icon_name                 : sync
     
   - title                                 : Cross-platform app
-    description                           : Use our app on Android, iOS, or straight in your web browser
+    description                           : Use our app on Android, iOS, or straight in your web browser.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video procedures
-    description                           : Get direct links to the videos of the procedures in English and Welsh
+    description                           : Get direct links to the videos of the procedures in English and Welsh.
     fontawesome_icon_name                 : play-circle
   
   - title                                 : Pocket companion
-    description                           : Use our app at any time for quick reference. It is the perfect compaion for a quick reminder while on night shifts
+    description                           : Use our app at any time for quick reference. It is the perfect compaion for a quick reminder while on night shifts.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
