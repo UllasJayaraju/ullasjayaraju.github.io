@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About US
+title: About Us
 include_in_header: true
 ---
 
