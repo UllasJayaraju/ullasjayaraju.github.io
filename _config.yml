@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : The Orthopaedic OnCall App                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Completely Free and Add-free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Become a safer orthopaedic doctor. (App not yet available)
+app_description                           : Become a safer orthopaedic doctor. (Available as Web-App beta only)
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -34,24 +34,24 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Your on-call companion
-    description                           : Designed by doctors for doctors to help you master common medical procedures.
+    description                           : Designed by doctors for doctors to help you commonly encountered acute orthopaedic conditions while on-call.
     fontawesome_icon_name                 : user-md
     
-  - title                                 : Result interpretation
-    description                           : Quick reminder of how to interpret imaging and results following the procedure.
-    fontawesome_icon_name                 : flask
+  - title                                 : Reference images
+    description                           : Multiple reference image for common fractures to help you with your diagnosis.
+    fontawesome_icon_name                 : x-ray
+  
+  - title                                 : 3D Anatomy
+    description                           : Get access to free 3D anatomy models straight within the App.
+    fontawesome_icon_name                 : bone
     
   - title                                 : Up to date
-    description                           : Frequent updates are provided to keep on track with IMT requirements and in line with current UK medical practice.
+    description                           : Frequently updated to keep track in line with current UK orthopaedic practice.
     fontawesome_icon_name                 : sync
     
   - title                                 : Cross-platform app
-    description                           : Use our app on Android, iOS, or straight in your web browser.
+    description                           : Use our app on Android, iOS, or straight in your web browser (just press the Web-App tab on this page).
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Video procedures
-    description                           : Get direct links to the videos of the procedures in English and Welsh.
-    fontawesome_icon_name                 : play-circle
   
   - title                                 : Pocket companion
     description                           : Use our app at any time for quick reference. It is the perfect compaion for a quick reminder while on night shifts.
