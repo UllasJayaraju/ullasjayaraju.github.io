@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About US
-include_in_header: false
+include_in_header: true
 ---
 
 # About Us
