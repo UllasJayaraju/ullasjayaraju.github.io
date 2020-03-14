@@ -13,7 +13,7 @@ Our content is reviewed by consultant orthopaedic surgeons before publication to
 
 Members of our core team include :
  
-###  Ullas Jayaraju MBBS
+###  Mr. Ullas Jayaraju MBBS MRCS
 Orthopaedic surgery core surgical trainee in south Wales. 
 
 Project lead
@@ -22,7 +22,7 @@ Author of multiple chapters
 
 Chief editor of App content 
 
-###  Patrick Paul Tabet MBBS, MRCS, BSc, MSc, CILT
+###  Mr. Patrick Paul Tabet MBBS, MRCS, BSc, MSc, CILT
 Plastic surgery core surgical trainee in south Wales. 
 
 Author of multiple chapters
@@ -33,12 +33,12 @@ App and website designer and programmer
 
 Artist for 2D artwork
 
-###  Owain Davies MBBS, MRCS
+###  Mr. Owain Davies MBBS, MRCS
 Orthopaedic surgery speciality registrar in south Wales. 
 
 Author of multiple chapters
 
-###  Rhodri Gwyn MBBch, MRCS
+###  Mr. Rhodri Gwyn MBBch, MRCS
 Orthopaedic surgery speciality registrar in south Wales. 
 
 Author of multiple chapters
